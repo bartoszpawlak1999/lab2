@@ -1,0 +1,28 @@
+.navbar 
+{
+        margin-bottom: 0;
+        border-radius: 0;
+}
+    
+.row.content
+{
+    height: 450px
+}
+
+.sidenav
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #c0a197;
+    height: 100%;
+}
+
+img
+{
+    max-height:30px;
+}
+
+footer
+{
+    background-color: #c0a197;
+}
